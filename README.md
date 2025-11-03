@@ -1,4 +1,5 @@
-# clusterizacao_i_infnet
+# Algoritmos de Inteligência Artificial para clusterização - INFNET
+
 Projeto da Disciplina Algoritmos de Inteligência Artificial para clusterização - INFNET <br>
 Professor: Gesiel Rios Lopes
 
